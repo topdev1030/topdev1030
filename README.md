@@ -2,7 +2,7 @@
 <div align="center" width="50">
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Fullstack+and+Blockchain+Engineer.;Over+7+years+of+Experience+in+Web+and+Mobile+and+Blockchain." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Fullstack+and+Blockchain+Engineer.;Over+7+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a>
 </div>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/venuswhispers" alt="Crypto Venus"  width="60%"/><br> 
   
@@ -69,7 +69,7 @@ class About extends Me {
 - &nbsp;&nbsp;<img src="https://github.com/venuswhispers/venuswhispers/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal**.<br>
 
 <div align="center" >
-<a  href="https://github.com/smallsmile1030">
+<a  href="https://github.com/topdev1030">
 
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
@@ -223,11 +223,11 @@ class About extends Me {
 </table>
 
 <p align="center">
-  <a href="https://github.com/smallsmile1030?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=smallsmile1030&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@CryptoNinja's github-readme-stats"/>
+  <a href="https://github.com/topdev1030?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=topdev1030&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@CryptoNinja's github-readme-stats"/>
   </a>
-  <a href="https://github.com/smallsmile1030?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=smallsmile1030&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@CryptoNinja's github-readme-streak-stats"/>
+  <a href="https://github.com/topdev1030?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=topdev1030&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@CryptoNinja's github-readme-streak-stats"/>
   </a>
 </p>
 
